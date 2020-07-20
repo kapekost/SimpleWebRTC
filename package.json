@@ -21,7 +21,7 @@
     "browserify": "2.22.0",
     "precommit-hook": "0.3.x",
     "request": "",
-    "uglify-js": "2.3.6"
+    "uglify-js": "3.10.0"
   },
   "scripts": {
     "updateLatest": "./scripts/updateLatest.sh"
